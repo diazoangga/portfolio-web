@@ -204,11 +204,11 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Business Automation',
-    description: `Integrating financial performance and customer behavior to enhance decision making on analyzing business strategic plan including business positioning.`,
+    name: 'Business Intelligence',
+    description: `Integrating financial performance and customer behavior to enhance decision making on analyzing business strategic plan including business positioning through initiating dashboard and DBMS.`,
     tags: 'React.js, Django, Asprise, Docker',
     image: movie,
-    repo: '-',
+    repo: 'https://github.com/diazoangga/HomiReport-Backend',
     demo: '-',
   },
   // {
